@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello jenkins SCM
+Checking automatic deployment
 </body>
 </html>
