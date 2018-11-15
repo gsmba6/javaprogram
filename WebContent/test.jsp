@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Checking automatic deployment
+Automatic deployment from GIT - JENKINS - TOMCAT (with maven build tool)
 </body>
 </html>
